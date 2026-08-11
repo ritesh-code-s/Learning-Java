@@ -17,9 +17,12 @@ public class TypeConversion {
         System.out.println(d);
 
         // From float to integer;
-
         
 
+        float e = 875.87f;
+        int g =  (int) e;
+
+        System.out.println(g);
+
     }
-    
 }
